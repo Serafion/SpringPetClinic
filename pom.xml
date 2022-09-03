@@ -11,7 +11,7 @@
     <groupId>pl.petclinic</groupId>
     <artifactId>PetClinic</artifactId>
     <packaging>pom</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <modules>
         <module>petclinicdata</module>
         <module>petclinicservice</module>
@@ -43,6 +43,6 @@
     </build>
     <scm>
         <developerConnection>scm:url:https://github.com/Serafion/SpringPetClinic.git</developerConnection>
-      <tag>PetClinic-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
