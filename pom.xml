@@ -14,7 +14,7 @@
     <version>1.1-SNAPSHOT</version>
     <modules>
         <module>petclinicdata</module>
-        <module>petclinicservice</module>
+        <module>petclinicsweb</module>
     </modules>
 
     <properties>
